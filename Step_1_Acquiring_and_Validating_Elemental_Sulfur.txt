@@ -1,0 +1,21 @@
+1. Description: Give a description of what the step sequence will accomplish for the overall process in the main branch.
+Sulfuric acid will be required to make materials for aspirin. Flue gas desulfurization from burning sulfur will convert it to calcium sulfate. Electrolysis of a solution of that and water will convert that to sulfuric acid.
+
+2. Inputs: state the input vertices to the step sequence.
+None
+
+3. Outputs: state the output vertices to the step sequence.
+Dirty sulfur powder
+
+4. Procedure: describe step-by-step the procedure used to transform the inputs to the outputs.
+    1. Scrape the side of a the ravine holding the sulfur spring water. There will be a soft solid deposit of dirty sulfur that should come off with anything harder than a plastic spoon.
+    2. Dry the deposits gathered from step one so that the result is a dry powder.
+    3. Crush the powder to homogenize.
+
+5. Yield: state the purity of the output if applicable.
+45.8±0.3% purity was deduced from hand-separating sulfur crystals when 2±1 g of dirty sulfur powder is recrystalized from 30±6 mL of mixed isomer xylenes. Resulting sulfur crystals are put into a 5 mm wide pile and pile length compared to an equally wide pile of dirt in the sample. 
+
+6. Notes: state any other notes that are helpful to people
+Yield is precise, but may not be accurate due to sources of error inherent in the pile-measuring technique described above (e.g. pile tapering).
+
+7. Demonstration: Give a full YouTube link (not shortened) of a demonstration of the procedure above. You MUST include a demonstration before submitting a text file.
