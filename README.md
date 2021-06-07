@@ -17,4 +17,5 @@ Use the following order for contents in each text file:
 5. Yield: state the purity of the output if applicable.
 6. Notes: state any other notes that are helpful to people
 7. Demonstration: Give a full YouTube link (not shortened) of a demonstration of the procedure above. You MUST include a demonstration before submitting a text file. We will use YouTube because of that platform's few predatory links, fast loading, and good quality transcoding to save on internet data use.
-END README: 2021-06-06 5:20 pm by Avian Yuen.
+
+END README
