@@ -5,7 +5,7 @@ Definitions:
 This project uses the process graph (p-graph) method of F. Friedler et al. to represent the process. Please read "Graph-theoretic approach to process synthesis: axioms and theorems" (Friedler et al. 1992) at https://doi.org/10.1016/0009-2509(92)80315-4 before contributing.
 
 The main branch is for the complete process from material vertices to the final "aspirin tablet" material vertex.
-A "step" will be defined as a triplet of material vertex, subsequent adjacent operation vertex, and subsequent material vertex from that operation.
+A "step" will be defined as a triplet of: material vertex, subsequent adjacent operation vertex, and subsequent material vertex from that operation.
 
 Contributions:
 All steps in this repository are given in text (.txt) files, either as single steps (e.g. "Step_1_{description}.txt") or a range of steps (e.g. "Steps_1-7_{description}.txt").
