@@ -12,7 +12,7 @@ All steps in this repository are given in text (.txt) files, either as single st
 Use the following order for contents in each text file:
 1. Description: Give a description of what the step sequence will accomplish for the overall process in the main branch.
 2. Inputs: state as input the prior step's final material vertex.
-3. Outputs: state as output the final material vertices fesulting from this step sequence.
+3. Outputs: state as output the final material vertices resulting from this step sequence.
 4. Procedure: describe step-by-step the procedure used to transform the inputs to the outputs.
 5. Yield: state the purity of the output if applicable.
 6. Notes: state any other notes that are helpful to people
