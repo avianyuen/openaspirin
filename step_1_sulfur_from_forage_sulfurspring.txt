@@ -15,8 +15,11 @@ Dirty sulfur powder
 5. Yield:
 45.8±0.3% purity was deduced from hand-separating sulfur crystals when 2±1 g of dirty sulfur powder is recrystalized from 30±6 mL of mixed isomer xylenes. Resulting sulfur crystals are put into a 5 mm wide pile and pile length compared to an equally wide pile of dirt in the sample. 
 
-6. Notes:
+6. Time Cost:
+0.5 hr/g
+
+7. Notes:
 Yield is precise, but may not be accurate due to sources of error inherent in the pile-measuring technique described above (e.g. pile tapering).
 
-7. Demonstration:
+8. Demonstration:
 I (Avian Yuen) demonstrate the method and yield calculation myself (2021-06-07): https://www.youtube.com/watch?v=IcIT7tWOr4o

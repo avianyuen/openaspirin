@@ -1,0 +1,22 @@
+1. Description
+Part of making white vinegar (dilute acetic acid) for separation of calcium carbonates and to make acetate salts.
+
+2. Inputs
+None
+
+3. Outputs
+Apples
+
+4. Procedure
+    1. Pinch the stem of fully grown apple on the apple tree.
+    2. Pull and twist to pick the apple from the tree.
+
+5. Yield
+Unknowable. Yield of apples from trees will vary by tree.
+
+6. Time Cost
+1 min/kg
+
+7. Notes
+
+8. Demonstration

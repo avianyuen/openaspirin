@@ -1,0 +1,21 @@
+1. Description
+Turns apples into smaller chunks for easier juicing to make vinegar.
+
+2. Inputs
+Apples
+
+3. Outputs
+Apple chunks
+
+4. Procedure
+    1. Cut each apple with a knife in half along Cartesian x, y, and z axes, thereby creating 8 pieces roughly equal in volume.
+
+5. Yield
+100% (no mass or volume lost)
+
+6. Time Cost
+8 min/kg
+
+7. Notes
+
+8. Demonstration

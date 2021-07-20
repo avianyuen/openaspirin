@@ -1,0 +1,21 @@
+1. Description
+Forms the apple cider base to make apple cider vinegar to make white vinegar.
+
+2. Inputs
+Apple chunks
+
+3. Outputs
+Apple pomace; Apple cider
+
+4. Procedure
+    1. Using a consumer grating-type juicer, juice the apple chunks according to the manufacturer directions, hence separating the apple pomace from the juice.
+
+5. Yield
+0.60±0.05 mL/g of cider/apple chunks. Equivalently, 0.63±0.05 g/g of cider/apple chunks.
+
+6. Time Cost
+13 min/kg
+
+7. Notes
+
+8. Demonstration
